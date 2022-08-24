@@ -1,2 +1,2 @@
 # POO-IFC-exercicios-lista02
- Exercicios de lógica programção da matéria de POO
+ Exercícios de lógica programação da matéria de POO
